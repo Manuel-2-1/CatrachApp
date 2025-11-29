@@ -1,0 +1,193 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+@font-face {
+  font-family: "Corben";
+  src: url("../fonts/Corben-Regular.ttf");
+}
+
+
+body {
+	
+	
+}
+
+
+.classic_header {
+	
+	background-color: #eeb627;
+	color: #fff;
+	font-family: corben;
+	padding: 10px;
+	
+	position: relative;
+}
+
+.elcontenedor img  {
+	
+	
+	
+}
+
+.header_list ul li  {
+  
+  list-style-type: none;
+  font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+  padding-left: 20px ;
+padding-top: 10px;
+  
+  
+}
+.header_list a {
+	
+	text-decoration: none;
+	text-emphasis-color: aqua;
+	color: #fff;
+	
+}
+.header_list a:hover {
+	
+	text-decoration: none;
+	text-emphasis-color: aqua;
+	color: #986215;
+	
+}
+
+p {overflow-wrap: break-word;
+	max-width: 600px;
+	color: #4F3907 ;
+	font-size: 15px;
+	text-align: center;
+}
+
+.deldia {
+  position: relative;
+  overflow: hidden;
+  color: black;
+}
+
+.deldia  {
+  
+  background-image: url("../img/sitio/aguas-termales.jpg");
+	background-repeat: no-repeat;
+  	position: relative;
+ 	background-size: cover;
+	background-position: center;
+	background-color: rgba(0,0,0,0.65);
+	background-blend-mode: multiply;
+	padding: 10% 0;
+	
+}
+
+.descripsi {
+	background-image: url("../img/sitio/lacampana.jpg");
+  	position: relative;
+ 	background-size: cover;
+	background-position: center;
+	background-color: rgba(0,0,0,0.65);
+	background-blend-mode: multiply;
+	padding: 10% 0;
+}
+
+.descrsipsi .bg-idmg-1 {
+  position: absolute;
+  inset: 0;
+  background-image: url("../img/sitio/lacampana.jpg");
+  background-size: cover;
+  background-position: center;
+  opacity: 0.4; /* Controls transparency of background only */
+  z-index: 0;
+	
+}
+
+
+
+
+.deldia p img{
+	color: black;
+	opacity: 1;
+	z-index: 1;
+	align-content:center;
+}
+
+.locked-cage{
+	
+	background-color: antiquewhite;
+	padding: 20px;
+	border-radius: 30px;
+	 margin: 0 auto;
+	 max-width: 600px;
+	
+}
+
+
+
+
+.mision {
+	
+	background-color: antiquewhite;
+	
+	
+}
+
+.descripsiones {
+	position: absolute;
+	background-image:url("../img/sitio/lacampana.jpg");
+	 background-size: cover;
+  background-position: center;
+  opacity: 0.4; /* Controls transparency of background only */
+  z-index: 0;
+	padding: 40px;
+}
+
+.section {
+	padding:50px;
+}
+
+.classic_footer {
+	
+	background-color: #eeb627;
+	color: #fff;
+	font-family: Corben;
+	src: url(\Projecte\font\Corben-Regular.ttf);
+	padding: 10px;
+	text-align: center;
+}
+
+footer p{
+	color: white;
+	font font-family: corben;
+	
+	
+}
+
+#msiio article {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.conten-delete {
+	padding: 10px;
+	border-radius: 30px;
+	align-content: center;
+	box-sizing: border-box;
+	
+  
+}
+p {
+	color: #4F3907 ;
+	font-size: 20px;
+	text-align: center;
+	
+}
+
+
+h3 {
+	font-weight: 300;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	font-size: 40px;
+	color: #4F3907;
+	text-align: center;
+}
+	
