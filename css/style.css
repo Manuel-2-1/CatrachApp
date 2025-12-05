@@ -230,7 +230,6 @@ h3 {
     align-items: center;
     padding: 10px 10px;
 	font-size: 20px; 
-	flex-direction:row;
   }
 
 
@@ -269,68 +268,4 @@ h3 {
     border-radius: 20px;
 }
 
-#hero-gastronomia {
-	padding: 50px;
-	text-align: center;
-	color: aqua
-}
 
-
-#texto-gastronomia {
-	padding: 50px;
-	text-align: center;
-	color: aqua;
-	align-content: center;
-}
-
-
-#image-ribbon-gastronomia {
-	padding: 50px;
-	text-align: center;
-	color: aqua
-}
-
-#herolista{
-	color: #FFFFFF;
-	background-image: url("../img/articulos/mototaxis.jpg");
-	background-repeat: no-repeat;
-  	position: relative;
- 	background-size: cover;
-	background-position: center;
-	background-color: rgba(0,0,0,0.65);
-	background-blend-mode: multiply;
-	padding: 5% 4% 5% ;
-	text-align: center;
-	
-}
-
-#herolista div article div {
-	align-items: center;
-	background-color: antiquewhite;
-	border-radius: 20px;
-	padding: 20px 0 0 0;
-	
-}
-
-
-#herolista div a{
-	color: aqua;
-	text-decoration: none;
-	
-}
-#herolista div a h3:hover{
-	color: #fff;
-	text-decoration: none;
-	
-}
-
-
-#herolista h1 {
-  font-size: 40px;
-padding: 20px;
-	
-}
-
-.segmento-articulo {
-	padding: 15px 0 0 0;
-}
